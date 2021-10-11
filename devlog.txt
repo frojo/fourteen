@@ -1,4 +1,71 @@
 
+next: get sun to go to 14 minutes
+
+
+
+later:
+- use that weird texture as stars?
+- a full day is 14 mintues?
+
+
+
+# 10/11
+
+fourteen:
+false hope
+"real world" vs the fiction we create for ourselves
+
+
+
+reference pippin barrs empty series
+“if thinking about tools is interesting to you, check this out”
+
+i have to reference kate compton, and also anna anthropy, probably max b's talk
+
+if there is an aesthetic to unity games, it’s probably these broken 3d games (at least, for me):
+beginners guide
+stanley parable
+la faille by frog collective
+darwin’s games
+
+
+-twine, bitsy pico8 (i need to get a short name for these kinds of tools)
+
+the point is to use only the Unity defaults, to not import any assets in
+i'm running into some questions already
+
+- what counts as default or not default? are packages imported from the package manager a part of the defaults? what about copying code from other places? i want to be able ot move the camera with the mouse, which i think will be annoying wthout a package or asset. a cool thing about unity is that it's been around for so long that people have made so many assets for it. this sunset idea is nice in that it's making me bump up into these constraints questions
+
+do these starter assets put out by unity count?: https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-196525
+does the first person drifter, which seems standard in the game dev community, count? https://openupm.com/packages/io.igaryhe.firstpersondrifter/
+i only know about that bc i took a class at NYU that taught me that
+
+
+-is this even using Unity in a way that makes sense at all? bitsy, pico8, twine are all designed for making games fast, and so part of their design is to let the user make games without having to use other programs. Unity isn't designed in this way at all. I'm using Unity wrong
+
+
+i really want to use the starter assets but i think it would go against the spirit of this.
+it is making me think of how contrived this all is. the thing about bitsy is it's designed to where you can open it up yourself, at home, and you can start making a thing with 0 experience with it. the tutorial is linked right there from inside the tool, so is the discord and forums. so the design of the tool is made to get beginners to ask for help. the unity tool itself is less friendly
+
+the unity download page mentions "accessing tutorial videos" but it's not clear how or where they are https://unity.com/download
+
+o i'm realizing now there's an "FPS microgame" template that i could start with. i wonder what that is. you do have to scroll down to it and download it. and it's all greyed out
+
+i was curious and started a game with FPS microgame and it's pretty cool that it does give you this readymade unity project. it feels a little too prescriptive, like it's this full FPS game. its bigger than anything ive ever made.
+not how bitsy starts you off with a mostly blank canvas. but importantly it's not completely blank! there's the cat and the coffee and default player sprite. but it's not nearly as involved as this.
+another interesting thing about the FPS template is that it seems to have a built in tutorial thing.
+
+i'm going to try the Unity 1st person starter asset pack
+i don't feel like suffering through a youtube video or figuring it out myself
+and i haven't tried the starter asset pack yet, i'm curious
+so apparently to download and use this, i have to have an account/make one. i already have one. had to do a verification code thing
+and had to sign this terms of service which i did not read...
+
+and then importing took a few minutes
+and now it said something about using the new input manager, i had to restart unity
+
+o it's using a cinemachine virtual camera to do things
+
 
 # 10/9
 
